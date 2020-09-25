@@ -16,6 +16,6 @@
 <p align="center">
 <a href="https://codepen.io/iamshaheenumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="iamshaheenumar" height="30" width="30" /></a>
 <a href="https://twitter.com/dev_shaheen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dev_shaheen" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/shaheen-umar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaheen-umar" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shaheen-umar-69422574/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaheen-umar" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/11236017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11236017" height="30" width="30" /></a>
 </p>
