@@ -13,4 +13,4 @@ TypeScript · React · Next.js (App Router, RSC) · Node.js · Tailwind · React
 
 ### Reach me
 
-📫 iamshaheenumar@gmail.com · 𝕏 [@dev_shaheen](https://x.com/dev_shaheen)
+💼 [LinkedIn](https://www.linkedin.com/in/shaheen-umar/) · 📫 iamshaheenumar@gmail.com · 𝕏 [@dev_shaheen](https://x.com/dev_shaheen)
