@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Shaheen Umar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Shaheen 👋
 
-- 🌱 I’m currently learning **React Native**
+Senior Frontend Engineer based in Dubai, 8+ years building production web apps across healthtech and government.
 
-- 💬 Ask me about **React & Redux**
+- 🏗️ Founding Frontend Engineer at **Clinch Technologies**: multiple Next.js platforms, a shared design system, CI/CD and deployment architecture
+- 👥 Leading and mentoring frontend developers
+- 🤖 Now focused on AI-powered products: LLM pipelines, RAG and agentic workflows
+- 🌱 Learning: Python backends, containers/Kubernetes, Terraform, Azure OpenAI
 
-- 📫 How to reach me **iamshaheenumar@gmail.com**
+### Tech
 
+TypeScript · React · Next.js (App Router, RSC) · Node.js · Tailwind · React Query · Zustand · GraphQL · Playwright · Cypress · AWS · Supabase · Turborepo
+
+### Reach me
+
+📫 iamshaheenumar@gmail.com · 𝕏 [@dev_shaheen](https://x.com/dev_shaheen)
